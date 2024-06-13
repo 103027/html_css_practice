@@ -61,7 +61,7 @@ input{
 }
 
 input[type=submit]{
-    background-color: green;
+    background-color: black;
     padding-left: 30px;
     padding-right: 30px;
     border-radius: 10px;
